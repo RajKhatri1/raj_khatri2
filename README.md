@@ -1,16 +1,6 @@
-# raj_khatri2
+<p>
+ <img src = "https://github.com/RajKhatri1/raj_khatri2/assets/115798958/1eafb8a7-dabd-4277-ba9c-5b1940d611d6"width=22% height=35%>
+ <img src = "https://github.com/RajKhatri1/raj_khatri2/assets/115798958/415934ff-a0bc-484e-b445-d618ad615766"width=22% height=35%>
 
-A new Flutter project.
+</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
